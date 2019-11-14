@@ -1,0 +1,11 @@
+.input-container {
+    padding: 10px;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+  .visible {
+    display: block;
+  }
