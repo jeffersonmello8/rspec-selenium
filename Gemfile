@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'rack', '~> 1.6', '>= 1.6.4'
+gem 'rack', '~> 2.1'
 gem 'selenium-webdriver', '~> 2.53.4'
 gem 'rspec', '~> 3.0'
